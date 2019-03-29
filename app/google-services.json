@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794041682689",
+    "firebase_url": "https://foodyhtu-15350.firebaseio.com",
+    "project_id": "foodyhtu-15350",
+    "storage_bucket": "foodyhtu-15350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794041682689:android:0baa0f22856017dc",
+        "android_client_info": {
+          "package_name": "com.example.foodyhtu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794041682689-v5prgv36o264cque1doj38o6qao3l9s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodyhtu",
+            "certificate_hash": "a05f29bc7e8c6b46cde2ba53a4f5bf17e41d2e6d"
+          }
+        },
+        {
+          "client_id": "794041682689-h1cgsd85p2ogpeppfm9q5hdfm59fu0ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo8_vpKBmG8_I2osMMOvl15d2VeWywj7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794041682689-h1cgsd85p2ogpeppfm9q5hdfm59fu0ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
